@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/CreateViewForBalance.sql" value="6bb9186e-52c6-4a4b-8dfd-64f8a1d13837" />
-    <file url="file://$PROJECT_DIR$/CreationofTables.sql" value="6bb9186e-52c6-4a4b-8dfd-64f8a1d13837" />
-    <file url="file://$PROJECT_DIR$/InsertionPracticeHotel.sql" value="6bb9186e-52c6-4a4b-8dfd-64f8a1d13837" />
-    <file url="file://$PROJECT_DIR$/TableCreation.sql" value="6bb9186e-52c6-4a4b-8dfd-64f8a1d13837" />
-    <file url="file://$PROJECT_DIR$/TableCreationScript.sql" value="6bb9186e-52c6-4a4b-8dfd-64f8a1d13837" />
+    <file url="file://$PROJECT_DIR$/CableBillingSystemTableCreation.sql" value="39895799-6512-4b05-8e2b-6b325bf5aa86" />
+    <file url="file://$PROJECT_DIR$/DerivedBalanceViewCreation.sql" value="39895799-6512-4b05-8e2b-6b325bf5aa86" />
   </component>
 </project>
